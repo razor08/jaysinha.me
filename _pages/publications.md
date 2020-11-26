@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Efficient Deep CNN-BiLSTM Model for Network Intrusion Detection | 3rd International Conference on Artificial Intelligence and Pattern Recognition @ Huaqiao University, Xiamen, China (25th - 27th Sept 2020)**\
+The model proposes an effective approach towards Network Intrusion Detection in cloud systems with active monitoring using Neural Networks. The proposed model combines spatial and temporal feature sets from CNN and BiLSTM on time range datasets to accurately predict network attacks and the category of attack to which they belong to. [ACM yet to publish on their website]

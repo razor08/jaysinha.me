@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Find PDF version [here](https://jaysinha.me/files/resume_jay_sinha.pdf)
 
 Current
 ======

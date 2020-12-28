@@ -26,7 +26,7 @@ Bachelors of Engineering in Information Science and Engineering
 RESEARCH
 ======
 * **Efficient Deep CNN-BiLSTM Model for Network Intrusion Detection* | 3rd International Conference on Artificial Intelligence and Pattern Recognition @ Huaqiao University, Xiamen, China (25th - 27th Sept 2020)**\
-The model proposes an effective approach towards Network Intrusion Detection in cloud systems with active monitoring using Neural Networks. The proposed model combines spatial and temporal feature sets from CNN and BiLSTM on time range datasets to accurately predict network attacks and the category of attack to which they belong to. [ACM yet to publish on their website]
+The model proposes an effective approach towards Network Intrusion Detection in cloud systems with active monitoring using Neural Networks. The proposed model combines spatial and temporal feature sets from CNN and BiLSTM on time range datasets to accurately predict network attacks and the category of attack to which they belong to. - [ACM](https://dl.acm.org/doi/10.1145/3430199.3430224)
 
 
 WORK EXPERIENCE
@@ -39,7 +39,7 @@ Collaborated with different teams around the globe to onboard Oracle HCM Cloud t
 Volunteered as a Front End Developer in JP Morgan’s Force for Good program - As part of this Corporate Social Responsibility program, worked on revamping Sahapedia NGO’s web platform and improved their media library to make a media browser. Created a custom npm module for the same.
 
 * **Helix Accelerator | Trainee in Hong Kong (February 2019 - April 2019)**\
-Was a part of the Helix Accelerator training program to incubate my project on Hedera Hashgraph which is the only Accelerator on Hedera Hashgraph. Developed HopOn application: a peer-to-peer WiFi sharing dapp monetized by microtransactions of cryptocurrencies. The application uses a dedicated mechanism to stop connecting to other persons’ Hopon Hotspot and verify the private keys of users to facilitate transactions through crypto. 
+Was a part of the Helix Accelerator training program to incubate my project on [Hedera Hashgraph](https://hedera.com) which is the only Accelerator on Hedera Hashgraph. Developed HopOn application: a peer-to-peer WiFi sharing dapp monetized by microtransactions of cryptocurrencies. The application uses a dedicated mechanism to stop connecting to other persons’ Hopon Hotspot and verify the private keys of users to facilitate transactions through crypto. 
 
 * **Ramaiah Institute of Technology | Software Engineering Intern (May 2018 - July 2018)**\
 Extended the development of Ramaiah Farming Portal (initially started as part of 6th-semester coursework) which is a Data storage software for storing information of farmers covering a complex collection of details for Ramaiah Public Policy Center as a mini-project. (Fully functional & in-production - later taken into the internal organization server in order to limit access to data that contains personally identifiable information)
@@ -47,12 +47,12 @@ Extended the development of Ramaiah Farming Portal (initially started as part of
 
 * **Inversion Consultancy LLP | Head of IT (February 2018 - February 2019)**\
 Developing web-based and app-based software(s) for the company’s HR and its clients’.
-Developed an Online Learning Management System and Registration web software for Verzeo.
+Developed an Online Learning Management System and Registration web software for [Verzeo](https://verzeo.in).
 Learning about the startup ecosystem in India and about optimizing web-based software(s) for better performance delivery.
-Single-handedly designed and developed Foxmula (https://foxmula.com ) - An online self-paced learning website for college students and working professionals in India. The web app is made using microservices: consists of an admin (track and visualize the student’s actions & segregate data in a manner to boost sales and maintain onboarded students), operations & student side views and also offers REST API for vendor applications for better tracking of a student and their registration with Foxmula’s partners. The website has more than 3000 daily active users and more than 100,000+ signed up users as of now.
+Single-handedly designed and developed [Foxmula](https://foxmula.com ) - An online self-paced learning website for college students and working professionals in India. The web app is made using microservices: consists of an admin (track and visualize the student’s actions & segregate data in a manner to boost sales and maintain onboarded students), operations & student side views and also offers REST API for vendor applications for better tracking of a student and their registration with Foxmula’s partners. The website has more than 3000 daily active users and more than 100,000+ signed up users as of now.
 
 * **SecureIT Lab | Software Engineering Intern (September 2017 – February 2018)**\
-Lead the development team of project Ophish.
+Lead the development team of project [Ophish](https://ophish.com).
 Developed features and did extensive debugging of their platform on PHP and Python which resulted in up to 50% better performance in email scheduling and parallel processing of response events.
 
 ACHIEVEMENTS AND PROJECTS 

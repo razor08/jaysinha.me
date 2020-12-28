@@ -28,4 +28,4 @@ If you are interested in collaborating with me, please feel free to drop me an e
 
 
 
-[<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' />](http://www.catb.org/hacker-emblem/)
+[<img src='https://jaysinha.me/files/glider.png' alt='hacker emblem' />](http://www.catb.org/hacker-emblem/)

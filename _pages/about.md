@@ -27,3 +27,5 @@ Interested in Collaboration?
 If you are interested in collaborating with me, please feel free to drop me an email.
 
 
+
+[<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' />](http://www.catb.org/hacker-emblem/)
